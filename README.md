@@ -10,4 +10,5 @@ RIP (Routing Information Protocol) enables dynamic router-to-router communicatio
 
 Static routing is applied for server connectivity to maintain consistent and secure access.
 
-The overall design ensures seamless communication, reliability, and structured segmentation across all zones of the enterprise network.
+The overall design ensures seamless communication, reliability, and structured segmentation across all zones of the enterprise network. 
+this 
